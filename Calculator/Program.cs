@@ -1,41 +1,14 @@
 ﻿using System.Text.RegularExpressions;
-
-class Calculator
-{
-    public static double DoOperation(double num1, double num2, string op)
-    {
-        double result = double.NaN;
-
-        switch (op) 
-        {
-            case "1":
-                result = num1 + num2;
-                break;
-            case "2":
-                result = num1 - num2;
-                break;
-            case "3":
-                result = num1 * num2;
-                break;
-            case "4":
-                if (num2 != 0)
-                {
-                    result = num1 / num2;
-                }
-                break;
-            default:
-                break;
-        }
-        return result;
-    }
-}
+using CalculatorLibrary;
 
 class Program
 {
     static void Main(string[] args)
     {
         bool endApp = false;
-        
+
+        Calculator calculator = new Calculator();
+
         Console.WriteLine("Console Calculator in C#\r");
         Console.WriteLine("------------------------\n");
 
@@ -82,7 +55,7 @@ class Program
             {
                 try
                 {
-                    result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
+                    result = calculator.DoOperation(cleanNum1, cleanNum2, op);
                     if (double.IsNaN(result))
                     {
                         Console.WriteLine("This operation will result in a mathematical error.\n");
@@ -101,6 +74,7 @@ class Program
 
             Console.WriteLine("\n");
         }
+        calculator.Finish();
         return;
     }
 }

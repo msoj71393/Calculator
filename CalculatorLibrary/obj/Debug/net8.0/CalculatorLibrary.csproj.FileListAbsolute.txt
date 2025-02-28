@@ -1,0 +1,13 @@
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.deps.json
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.dll
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\bin\Debug\net8.0\CalculatorLibrary.pdb
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.AssemblyReference.cache
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfoInputs.cache
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.AssemblyInfo.cs
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.sourcelink.json
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.dll
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\refint\CalculatorLibrary.dll
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\CalculatorLibrary.pdb
+G:\Datamatiker\Visual Studio Code\Calculator\CalculatorLibrary\obj\Debug\net8.0\ref\CalculatorLibrary.dll
